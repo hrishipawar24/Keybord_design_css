@@ -1,2 +1,2 @@
 # Learning-css
-![alt text](https://imgtr.ee/i/OufAF)
+![Image](https://imgtr.ee/i/OufAF)
